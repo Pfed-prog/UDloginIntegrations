@@ -30,7 +30,7 @@ GitHub repo: https://github.com/Pfed-prog/UDCryptoKraken
 
 Discord: fedotov_am#4849
 
-Email: fdeorovn19@gmail.com
+Email: fedorovn19@gmail.com
 
 Twitter: https://twitter.com/ZDabom
 
