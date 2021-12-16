@@ -1,6 +1,6 @@
 # UD login Integrations
 
-So far we have implemented 3 UD Login integrations.
+We have implemented 4 UD Login integrations.
 
 1. Ceramic_Unstoppable with UD Login
 
@@ -33,6 +33,15 @@ GitHub repo: https://github.com/Pfed-prog/UDCryptoKraken
 [Live Demo](https://udc-rypto-data.vercel.app/)
 
 [YouTube Demo](https://youtu.be/Ob_R_1RtLJQ)
+
+4. UDAlgorand
+
+GitHub repo: https://github.com/Pfed-prog/UDAlgorand
+
+[Live Demo](https://uda-lgorand.vercel.app/)
+
+[YouTube Demo]()
+
 
 ## Contact info 
 
