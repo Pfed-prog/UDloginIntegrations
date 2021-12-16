@@ -1,4 +1,4 @@
-# UDloginIntegrations
+# UD login Integrations
 
 So far we have implemented 3 UD Login integrations.
 
